@@ -1,0 +1,23 @@
+---
+title: 'Fire Prevention Device'
+author:
+  - name: Johan Rodriguez Salas, Gabriel Alfaro Ulate, Christian Ferreto Morera
+    affiliation: Instituto Tecnologico de Costa Rica
+    location: Costa Rica
+    email: johrodriguez@estudiantec.cr, gaalfaro@estudiantec.cr, cferreto@estudiantec.cr
+keywords:
+  - IoT
+  - Forest fire
+  - 4.0 Industry
+numbersections: yes
+documentclass: IEEEconf
+lang: en
+babel-lang: english
+abstract: |
+  Include here the abstract...
+header-includes: |
+  \usepackage{booktabs}
+
+...
+
+---
