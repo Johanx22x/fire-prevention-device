@@ -23,3 +23,5 @@ pdf:
 clean:
 	rm build/*
 
+show: all
+	zathura build/paper.pdf
