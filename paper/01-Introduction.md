@@ -1,7 +1,7 @@
 # Introduction
 
 In the current century there is a large presence of forest fires throughout the planet, 
-this due to modern problems such as global warming, deterioration of the ozone layer 
+this due to modern problems such as global warming, deterioration of the ozone layer, 
 among others. This is why there is a high risk of unexpected and fast-spreading wildfires. 
 Providing high-speed responses to these wildfires is a difficult task, so thinking about a 
 better way to detect a wildfire as soon as possible is a potential solution to reduce the 
