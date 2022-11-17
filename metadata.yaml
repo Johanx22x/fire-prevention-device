@@ -1,7 +1,7 @@
 ---
 title: 'Fire Prevention Device'
 author:
-  - name: Johan Rodriguez Salas, Gabriel Alfaro Ulate, Christian Ferreto Morera
+  - name: Johan Rodriguez, Gabriel Alfaro, Christian Ferreto 
     affiliation: Instituto Tecnologico de Costa Rica
     location: Costa Rica
     email: johrodriguez@estudiantec.cr, gaalfaro@estudiantec.cr, cferreto@estudiantec.cr
@@ -17,7 +17,15 @@ documentclass: IEEEconf
 lang: en
 babel-lang: english
 abstract: |
-  Include here the abstract...
+  Wildfires are a continuing danger in today's era, having the ability to reduce risk is a 
+  significant help in this battle against fire. This work defines the process of research, 
+  development and implementation of a fire prevention device. This device implements IoT 
+  technologies, such as temperature, humidity and gas sensors, as well as an Arduino as the 
+  central core. With the help of a Bluetooth module, the device sends the data to an Android 
+  device. This Android device receives the data and analyzes it through a native Android 
+  application, thus obtaining the content required by the app. The results obtained from 
+  the device correspond to a test stage, so information corresponding to situations of use 
+  in real circumstances is not provided.
 header-includes: |
   \usepackage{booktabs}
 
