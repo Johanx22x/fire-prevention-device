@@ -104,152 +104,108 @@ states that a frecuent dilema found in the creation of this
 technology were the sound alterations in a uncontrolled 
 environment, such as a forest.
 
-In 2018, [@saeed2018iot] published an 
-article titled "IoT Based Intelligent 
-Modeling of Smart Home Environment for Fire 
-Prevention and Safety", in which the 
-authors state their objective as to create 
-a WSN (wireless sensors network) with a 
-better structure than usual and with a 
-smaller margin of error. The article 
-functions as an example of the 
-implementation of IoT in a controlled 
-space, such as a home, to detect fires. 
-This contrasts with an environment such as 
-a forest, but is useful to test the 
-capabilities of clustering technologies and 
-the ZigBee protocol in the detection and 
+In 2018, [@saeed2018iot] published an article titled "IoT 
+Based Intelligent Modeling of Smart Home Environment for Fire 
+Prevention and Safety", in which the authors state their 
+objective as to create a WSN (wireless sensors network) with a 
+better structure than usual and with a smaller margin of 
+error. The article functions as an example of the 
+implementation of IoT in a controlled space, such as a home, 
+to detect fires. This contrasts with an environment such as a 
+forest, but is useful to test the capabilities of clustering 
+technologies and the ZigBee protocol in the detection and 
 prevention of spontaneous combustion.
 
-A fifth article titled "IoT Sensor and Deep 
-Neural Network Based Wildfire Prediction 
-System" was published in the month of May 
-of 2020 by [@zope2020iot]. In the article, 
-the authors explain the monitoring process 
-that they excecuted to control a forest 
-environment in order to collect data, such 
-as humidity, temperature, and more. This 
-information was used to generate 
-calculations that would provide an estimate 
-about new formations of wildfires, via a 
-neural network of deep learning and various 
-IoT devices, laid out in a wide area.
+A fifth article titled "IoT Sensor and Deep Neural Network 
+Based Wildfire Prediction System" was published in the month 
+of May of 2020 by [@zope2020iot]. In the article, the authors 
+explain the monitoring process that they excecuted to control 
+a forest environment in order to collect data, such as 
+humidity, temperature, and more. This information was used to 
+generate calculations that would provide an estimate about new 
+formations of wildfires, via a neural network of deep learning 
+and various IoT devices, laid out in a wide area.
 
-The article proceeds to show how are the 
-IoT sensors utilized in order to gather 
-real-time data, which are then processed in 
-a CSV document for them to be stored. It 
-demonstrates in detail the conection of 
-each device with the sensors and the 
-external database. It also emphasizes on 
-the deep learning of each device, using 
-previous registered wildfires' information 
-to predict and prevent this type of 
-phenomena. 
+The article proceeds to show how are the IoT sensors utilized 
+in order to gather real-time data, which are then processed in 
+a CSV document for them to be stored. It demonstrates in 
+detail the conection of each device with the sensors and the 
+external database. It also emphasizes on the deep learning of 
+each device, using previous registered wildfires' information 
+to predict and prevent this type of phenomena. 
 
-In an article published in 2020, 
-[@kaur2020cloud] state the implementation 
-of Fog and Cloud computing to create a 
-wildfire prevention system that could 
-predict forestal events based on real-time 
-data processed by artificial neural 
-networks. The paper "Cloud-assisted green 
-IoT-enabled comprehensive framework for 
-wildfire monitoring" demonstrates how the 
-Fog layer can be used to analize data in 
-the spot, not requiring the influence of 
-the Cloud to generate responses as fast as 
+In an article published in 2020, [@kaur2020cloud] state the 
+implementation of Fog and Cloud computing to create a wildfire 
+prevention system that could predict forestal events based on 
+real-time data processed by artificial neural networks. The 
+paper "Cloud-assisted green IoT-enabled comprehensive 
+framework for wildfire monitoring" demonstrates how the Fog 
+layer can be used to analize data in the spot, not requiring 
+the influence of the Cloud to generate responses as fast as 
 posible.
 
-Various datasets were used as base 
-resources for estimates of forest fires, 
-helping the artificial neural network in 
-providing estimates about new formations of 
-wildfires. It makes the usage of Fog 
-computing at its limit stand out, using IoT 
-nodes that obtain on-time data to transmit 
-the information to the Fog layer for it to 
-generate data visuals and more statistic 
-tools. It is necessary to highlight that 
-there is a certain waiting time between the 
-processing of data and the transmission of 
-information to the database.
+Various datasets were used as base resources for estimates of 
+forest fires, helping the artificial neural network in 
+providing estimates about new formations of wildfires. It 
+makes the usage of Fog computing at its limit stand out, using 
+IoT nodes that obtain on-time data to transmit the information 
+to the Fog layer for it to generate data visuals and more 
+statistic tools. It is necessary to highlight that there is a 
+certain waiting time between the processing of data and the 
+transmission of information to the database.
 
-A review article made by 
-[@thompson2011uncertainty], titled 
-"Uncertainty and risk in wildland fire 
-management: A review" and published in 
-2011, provides the knowledge required to 
-asume wildfires' risks and dangers, as well 
-as how to treat them or control them. The 
-article remarks the inflections of forest 
-fires in the environment, highlighting the 
-effect over animal populations and global 
-warming, one of the subjects that has 
-caused more new formations of the phenomena 
-of interest.
+A review article made by [@thompson2011uncertainty], titled 
+"Uncertainty and risk in wildland fire management: A review" 
+and published in 2011, provides the knowledge required to 
+asume wildfires' risks and dangers, as well as how to treat 
+them or control them. The article remarks the inflections of 
+forest fires in the environment, highlighting the effect over 
+animal populations and global warming, one of the subjects 
+that has caused more new formations of the phenomena of 
+interest.
 
 Besides temperature, sound and humidity, 
-[@morocho2021implementacion] demonstrate 
-that gas in the environment is also a 
-resource that can be used in wildfire 
-detection. In their paper, "Implementation 
-of a Geographical-Positioning Monitoring 
-System for Forest Fires Prevention Using a 
-Sensory Network" published in 2021, the 
-authors establish a node-based sensory 
-network with LoRa communication, utilizing 
-ThingSpeak to alert in case of a wildfire 
-formation. For the detection process, the 
-article indicates the monitoring of 
-parameters such as carbon dioxide and wind 
-velocity in the near environment.
+[@morocho2021implementacion] demonstrate that gas in the 
+environment is also a resource that can be used in wildfire 
+detection. In their paper, "Implementation of a 
+Geographical-Positioning Monitoring System for Forest Fires 
+Prevention Using a Sensory Network" published in 2021, the 
+authors establish a node-based sensory network with LoRa 
+communication, utilizing ThingSpeak to alert in case of a 
+wildfire formation. For the detection process, the article 
+indicates the monitoring of parameters such as carbon dioxide 
+and wind velocity in the near environment.
 
-The authors apply a sensory network 
-consisting of three strategically 
-distributed nodes, which gather the 
-required data from gases located in the 
-area and send the information to a main 
-router. This router then emits the data to 
-the ThingSpeak Internet Platform, in which 
-all information is processed. The article 
-highlights the usage of LoRa technology to 
-communicate between nodes and with the main 
-router.
+The authors apply a sensory network consisting of three 
+strategically distributed nodes, which gather the required 
+data from gases located in the area and send the information 
+to a main router. This router then emits the data to the 
+ThingSpeak Internet Platform, in which all information is 
+processed. The article highlights the usage of LoRa technology 
+to communicate between nodes and with the main router.
 
-Another article, "Learning to coexist with 
-wildfire", published in 2014 by [@], 
-remarks the problematics that are caused 
-eyarly by wildfires, as well as the risk 
-and dangers that treating them can lead to. 
-It highlights the situation of countries 
-such as Australia and USA, in which forest 
-fires are more common than they should be, 
-demonstrating the impact that the recently 
-abrupt climate change has dealt in the 
-world.
+Another article, "Learning to coexist with wildfire", 
+published in 2014 by [@], remarks the problematics that are 
+caused eyarly by wildfires, as well as the risk and dangers 
+that treating them can lead to. It highlights the situation of 
+countries such as Australia and USA, in which forest fires are 
+more common than they should be, demonstrating the impact that 
+the recently abrupt climate change has dealt in the world.
 
-Finally, a tenth article, published in 2017 
-by [@vinueza2017implementacion] and titled 
-"Implementation of a small wireless sensors 
-network for early detection of forest fires 
-using open source hardware and software", 
-explains how the authors implemented a WSN 
-using open source resources to obtain data 
-such as temperature, humidity, smoke, among 
-others, and transmit the information to a 
-reciever device to process and store the 
-data. This information would be later 
-transformed and analized into variables and 
-images such as graphs and tables in a web 
-application.
+Finally, a tenth article, published in 2017 by 
+[@vinueza2017implementacion] and titled "Implementation of a 
+small wireless sensors network for early detection of forest 
+fires using open source hardware and software", explains how 
+the authors implemented a WSN using open source resources to 
+obtain data such as temperature, humidity, smoke, among 
+others, and transmit the information to a reciever device to 
+process and store the data. This information would be later 
+transformed and analized into variables and images such as 
+graphs and tables in a web application.
 
-The article describes a 
-wireless-sensor-based mini-network divided 
-in three subsystems: the transmitter, the 
-receptor and the storage subsystem. It 
-provides an interesting and useful view of 
-an architecture capable of analyzing 
-important data regarding fire detection in 
-an uncontrolled environment, such as a 
-forest.
+The article describes a wireless-sensor-based mini-network 
+divided in three subsystems: the transmitter, the receptor and 
+the storage subsystem. It provides an interesting and useful 
+view of an architecture capable of analyzing important data 
+regarding fire detection in an uncontrolled environment, such 
+as a forest.
