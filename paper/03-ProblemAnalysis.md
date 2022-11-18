@@ -6,7 +6,7 @@ The usage of technologies to mitigate the impact of these
 phenomena has increased due to the necessity of a brand-new 
 solution. 
 
-As stated previously in this document, wildfires int forestal 
+As stated previously in this document, wildfires in forestal 
 zones have been tremendous hazards increased in amount and 
 potency by climate change. In order to dimish the effect that 
 this natural disaster has in de areas of interest, various 
