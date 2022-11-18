@@ -7,11 +7,11 @@ FLAGS = --bibliography=bibliography.bib \
 		--to=latex \
 		--template=template.latex \
 		--csl=bibliography.csl \
+		--filter=pandoc-crossref \
 		--citeproc \
 		--metadata-file=metadata.yaml \
 		-s \
 		-t pdf
-		# --filter=pandoc-crossref \
 
 all: pdf
 
