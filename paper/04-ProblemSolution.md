@@ -18,13 +18,14 @@ mentioned type will extend the usefulness
 of the device, as well as the connected 
 components. The data transmitted by the 
 device during its functioning will be 
-gathered and processed by a computer, 
+gathered and processed by an application, 
 showing the information regarding the 
 temperature, humidity and gas of the 
 environment close to the Arduino UNO board, 
 as well as the sound frequencies detected 
 by the sound spectrum sensor.
 
+The application will provide various options to fulfill the kind of information is required at any given moment, whether the humidity is needed, or any other aspect of information. 
 
 ## Description
 
