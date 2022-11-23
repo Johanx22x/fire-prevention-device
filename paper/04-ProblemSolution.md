@@ -56,13 +56,24 @@ they are processed to be shown to the user. The data gathering
 is periodical, this in order to mantain a real-time 
 information flow.
 
-![Parameters shown by the application](images/application_parameters.jpg){#fig:4}
+![Temperature in real time expressed by the application](images/application_temperature.jpg){#fig:4}
 
-![Alerts shown by the application](images/application_alerts.jpg){#fig:5}
+![Humidity in real time expressed by the application](images/application_humidity.jpg){#fig:5}
 
-The figures [@fig:4] and [@fig:5] show the information 
-presented in the application, as well as the format used to 
-demonstrate the data and the alerts given by the sensors.
+![Gas in real time expressed by the application](images/application_gas.jpg){#fig:6}
+
+The figures [@fig:4], [@fig:5] and [@fig:6] show the information 
+presented in the application. This information provides an ample 
+visualization of the data recollected by the temperature, humidity 
+and gas sensors.
+
+![Alerts shown by the application](images/application_alerts.jpg){#fig:7}
+
+On the other hand, the information shown in [@fig:7] contains the 
+alerts thrown by the application periodically in which the user can 
+visualize if there is an environmental parameter that exceeds the normal 
+or usual amount, such as an increase in temperature, or anything along 
+the lines.
 
 The Arduino source code for the device includes the DHT11 
 library "DHT.h" to connect to the humidity and temperature 
@@ -73,6 +84,6 @@ application, in order to show the given parameters to the user.
 
 ## Diagrams
 
-![Diagram of the architecture of the prototype](images/diagram.jpg){#fig:6}
+![Diagram of the architecture of the prototype](images/diagram.jpg){#fig:8}
 
-The device's architecture is shown in [@fig:6], in which the humidity, temperature and gas sensor are conected to the Arduino UNO board and peek out of their container to be exposed to the environment and collect data. The bluetooth sensor by which the board communicates with the application is located in a small gap in the front face of the container, located close to the exterior. 
+The device's architecture is shown in [@fig:8], in which the humidity, temperature and gas sensor are conected to the Arduino UNO board and peek out of their container to be exposed to the environment and collect data. The bluetooth sensor by which the board communicates with the application is located in a small gap in the front face of the container, located close to the exterior. 
