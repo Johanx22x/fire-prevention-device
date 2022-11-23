@@ -84,7 +84,7 @@ application, in order to show the given parameters to the user.
 
 ## Diagrams
 
-![Diagram of the architecture of the prototype](images/diagram.jpg){#fig:8}
+![Diagram of the architecture of the prototype](images/diagram.png){#fig:8}
 
 The device's architecture is shown in [@fig:8], in which the humidity, temperature and gas sensor are connected 
 to the Arduino UNO board and peek out of their container to be exposed to the environment and collect data. The 

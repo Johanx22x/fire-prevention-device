@@ -190,7 +190,7 @@ processed. The article highlights the usage of LoRa technology
 to communicate between nodes and with the main router.
 
 As it is seen in "Learning to coexist with wildfire", 
-published in 2014 by [@], it is necessary to remark the problematics that are 
+published in 2014 by [@moritz2014learning], it is necessary to remark the problematics that are 
 caused yearly by wildfires, as well as the risk and dangers 
 that treating them can lead to. It is necessary to higlight the situation of 
 countries such as Australia and USA, in which forest fires are 
