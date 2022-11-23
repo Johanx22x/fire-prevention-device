@@ -66,7 +66,7 @@ in the R2 metric, demonstrating the efficiency of the
 implementation of machine learning and Fog and Edge computing 
 in a rapid detection and alert of forest fires.
 
-In this article, the use of machine learning concepts to 
+The authors explain that the use of machine learning concepts to 
 provide estimates and promote fire prevention techniques is 
 explained in a detailed manner. Using the NASA dataset, FIRMS, 
 diverse algorithms and calculations are implemented in the 
@@ -81,10 +81,12 @@ essential point to take in account when working with a massive
 node network, such as a series of interconnected devices laid 
 out in a forest.
 
-Another article published by [@zhang2019wildfire], titled "Wildfire 
+Besides the conventional methods used to identify fires, sound 
+spectrums have been the most innovative of them recently. 
+[@zhang2019wildfire] published an article titled "Wildfire 
 Detection Using Sound Spectrum Analysis Based on the Internet 
-of Things", provides an innovative solution to a fast 
-detection of wildfires, using the different sound frequencies 
+of Things", in which an innovative solution to a fast detection 
+of wildfires is provided, using the different sound frequencies 
 that are unique to fire, to achieve a prevention technique 
 that doesn't require a great bandwidth. Besides that, a new 
 power source called "tree-energy device" is applied to the 
@@ -92,11 +94,11 @@ system, that consists on a method to provide the necessary
 energy to the various IoT devices using the trees' biological 
 energy to produce electric energy.
 
-This paper emphasizes on the many ways that currently exist to 
+There is a great emphasis on the many ways that currently exist to 
 dettect and prevent wildfires, such as "ground patrol", 
 "remote video monitoring", "artificial tower observation", 
 among others, to demonstrate the innovative factor that this 
-new solution based on sound spectrums has. It explains 
+new solution based on sound spectrums has. The article explains 
 thoroughly the process of obtaining the environmental sounds 
 and analysing the information in the lookout of the correct 
 frequencies that a wildfire emits. On the other hand, it also 
@@ -116,9 +118,10 @@ forest, but is useful to test the capabilities of clustering
 technologies and the ZigBee protocol in the detection and 
 prevention of spontaneous combustion.
 
-A fifth article titled "IoT Sensor and Deep Neural Network 
-Based Wildfire Prediction System" was published in the month 
-of May of 2020 by [@zope2020iot]. In the article, the authors 
+Neural networks are a useful tool to implement in fire detecction sistems, 
+as a fifth article titled "IoT Sensor and Deep Neural Network 
+Based Wildfire Prediction System" and published in the month 
+of May of 2020 by [@zope2020iot] demonstrates. In the article, the authors 
 explain the monitoring process that they excecuted to control 
 a forest environment in order to collect data, such as 
 humidity, temperature, and more. This information was used to 
@@ -126,20 +129,20 @@ generate calculations that would provide an estimate about new
 formations of wildfires, via a neural network of deep learning 
 and various IoT devices, laid out in a wide area.
 
-The article proceeds to show how are the IoT sensors utilized 
+The authors proceed to show how are the IoT sensors utilized 
 in order to gather real-time data, which are then processed in 
-a CSV document for them to be stored. It demonstrates in 
+a CSV document for them to be stored. They demonstrate in 
 detail the conection of each device with the sensors and the 
-external database. It also emphasizes on the deep learning of 
+external database. There is also an emphasis on the deep learning of 
 each device, using previous registered wildfires' information 
 to predict and prevent this type of phenomena. 
 
-In an article published in 2020, [@kaur2020cloud] state the 
-implementation of Fog and Cloud computing to create a wildfire 
-prevention system that could predict forestal events based on 
-real-time data processed by artificial neural networks. The 
-paper "Cloud-assisted green IoT-enabled comprehensive 
-framework for wildfire monitoring" demonstrates how the Fog 
+The authors [@kaur2020cloud] state that the implementation of 
+Fog and Cloud computing to create a wildfire 
+prevention system could predict forestal events based on 
+real-time data processed by artificial neural networks. In an article 
+published in 2020, titled "Cloud-assisted green IoT-enabled comprehensive 
+framework for wildfire monitoring", it is demonstrater how the Fog 
 layer can be used to analize data in the spot, not requiring 
 the influence of the Cloud to generate responses as fast as 
 posible.
@@ -154,8 +157,10 @@ statistic tools. It is necessary to highlight that there is a
 certain waiting time between the processing of data and the 
 transmission of information to the database.
 
-A review article made by [@thompson2011uncertainty], titled 
-"Uncertainty and risk in wildland fire management: A review" 
+In order to treat a wildfire in a correct manner, it is necessary 
+to analize the risks and dangers of the fires. A review article 
+made by [@thompson2011uncertainty], titled "Uncertainty and 
+risk in wildland fire management: A review" 
 and published in 2011, provides the knowledge required to 
 asume wildfires' risks and dangers, as well as how to treat 
 them or control them. The article remarks the inflections of 
@@ -184,10 +189,10 @@ ThingSpeak Internet Platform, in which all information is
 processed. The article highlights the usage of LoRa technology 
 to communicate between nodes and with the main router.
 
-Another article, "Learning to coexist with wildfire", 
-published in 2014 by [@], remarks the problematics that are 
-caused eyarly by wildfires, as well as the risk and dangers 
-that treating them can lead to. It highlights the situation of 
+As it is seen in "Learning to coexist with wildfire", 
+published in 2014 by [@], it is necessary to remark the problematics that are 
+caused yearly by wildfires, as well as the risk and dangers 
+that treating them can lead to. It is necessary to higlight the situation of 
 countries such as Australia and USA, in which forest fires are 
 more common than they should be, demonstrating the impact that 
 the recently abrupt climate change has dealt in the world.
@@ -203,7 +208,7 @@ process and store the data. This information would be later
 transformed and analized into variables and images such as 
 graphs and tables in a web application.
 
-The article describes a wireless-sensor-based mini-network 
+A wireless-sensor-based mini-network is described to be
 divided in three subsystems: the transmitter, the receptor and 
 the storage subsystem. It provides an interesting and useful 
 view of an architecture capable of analyzing important data 

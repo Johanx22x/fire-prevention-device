@@ -1,14 +1,16 @@
 # Conclusion
 
-The prototype device provided statisfactory results regarding the gathering 
-of data from the humidity, temperature and gas sensors. The data was transmitted 
-from these components to the Arduino UNO board effectively, proven by the test 
-made when connected by cable to a computer. It is safe to conclude that the IoT 
-components are a simple yet efficient way to gather certain parameters of data, 
-reducing the power source needed to mantain the devices functioning.
+The implementation of IoT in devices designed for detection and prevention of 
+wildfires in forestal areas has proved to have an excelente rate of usefulness, 
+as stated in many related works mentioned in this document. Regarding the proposed 
+solution for this problematic, the use of IoT grouped with various recognition 
+sensors and an Arduino UNO board has demonstrated an effective conection between
+the detection processing unit and the user interface, achieving the main goal of 
+the IoT concept and allowing the conclusion of an efficient response from the sensors 
+towards the application.
 
-Another conclusion to be made is that, by gathering succesfully the data 
-provided by the sensors and the main processing unit, it is posible to 
-facilitate the monitoring processes over the required data points. In a case 
-where these have to be monitored manually, the implementation of a device 
-like this can ease the gathering and understanding of the parameters.
+It is also possible to conclude that wildfire preventions systems all around the world 
+are constantly proposing innovative solutions to mitigate the effects of climate change 
+and global warming. This iniciative has improved along the years, and will continue to 
+do so in the upcoming decades, due to the agravating consecuences the environmental issue 
+of interes has had in many places of the world.
